@@ -13,7 +13,7 @@ Easy
 Array, Hash Table
 
 ## 💻 Language
-python
+cpp
 
 ## 🧠 Approach
 This problem was automatically organized into the correct category folder based on its detected tags.
