@@ -1,8 +1,3 @@
-class Solution:
-    def twoSum(self, nums, target):
-        mp = {}
-        for i, num in enumerate(nums):
-            diff = target - num
-            if diff in mp:
-                return [mp[diff], i]
-            mp[num] = i
+#include <vector>
+using namespace std;
+class Solution { public: vector<int> twoSum(vector<int>& nums, int target) { return {}; } };
