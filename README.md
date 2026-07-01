@@ -22,4 +22,4 @@ DSA/
 | Problem | Platform | Category | Difficulty | Language | Status |
 | --- | --- | --- | --- | --- | --- |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Arrays | Easy | cpp | pushed |
-| [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | LeetCode | Arrays | Medium | python | pending |
+| [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode | Arrays | Medium | python | pending |
