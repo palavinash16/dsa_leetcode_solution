@@ -22,4 +22,4 @@ DSA/
 | Problem | Platform | Category | Difficulty | Language | Status |
 | --- | --- | --- | --- | --- | --- |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Arrays | Easy | cpp | pushed |
-| [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | LeetCode | Arrays | Medium | python | pending |
+| [0](https://leetcode.com/problems/number-of-common-factors/) | LeetCode | Uncategorized | Unknown | python | pending |
