@@ -1,7 +1,7 @@
 # Problem Description
 
-**Title:** Two Sum  
-**Platform:** LeetCode  
+**Title:** Two Sum
+**Platform:** LeetCode
 **URL:** https://leetcode.com/problems/two-sum/
 
 Add a short summary of the problem here.

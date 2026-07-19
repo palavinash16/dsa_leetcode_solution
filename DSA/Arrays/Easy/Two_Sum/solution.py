@@ -1,3 +1,1 @@
-#include <vector>
-using namespace std;
-class Solution { public: vector<int> twoSum(vector<int>& nums, int target) { return {}; } };
+2 <= nums.length <= 104

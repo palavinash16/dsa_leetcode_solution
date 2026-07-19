@@ -1,24 +1,24 @@
 # Two Sum
 
-## 🔗 Problem Link
+## Problem Link
 https://leetcode.com/problems/two-sum/
 
-## 🌐 Platform
+## Platform
 LeetCode
 
-## 🎯 Difficulty
+## Difficulty
 Easy
 
-## 🏷️ Tags
+## Tags
 Array, Hash Table
 
-## 💻 Language
-cpp
+## Language
+python
 
-## 🧠 Approach
+## Approach
 This problem was automatically organized into the correct category folder based on its detected tags.
 You can later update this section with a detailed beginner-friendly explanation.
 
-## ⏱️ Complexity
+## Complexity
 - Time Complexity: Add manually
 - Space Complexity: Add manually

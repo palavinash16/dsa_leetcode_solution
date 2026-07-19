@@ -23,4 +23,4 @@ DSA/
 | --- | --- | --- | --- | --- | --- |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Arrays | Easy | cpp | pushed |
 | [0](https://leetcode.com/problems/number-of-common-factors/) | LeetCode | Uncategorized | Unknown | python | pushed |
-| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | LeetCode | Math | Easy | python | pending |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Arrays | Easy | python | pending |
